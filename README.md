@@ -1,7 +1,7 @@
 # Visualize Universal Dependencies
 
 This is a script based on the application for visualizing syntactic relations within sentences
-using [universal dependencies](https://universaldependencies.org/) annotation developed at the 
+using [Universal Dependencies](https://universaldependencies.org/) annotation, written for the needs of a project at the 
 [Institute of Slavic Studies of University of Innsbruck](https://www.uibk.ac.at/slawistik/institut/).
 
 
