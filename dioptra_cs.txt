@@ -1,0 +1,79 @@
+IV,π.1_1	҆Ꙗко	ꙗко	SCONJ	_	_	IV,π.1_5	cc	ivp1	_	IV,π.1_1	41
+IV,π.1_2	оу҆́мъ	оумъ	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	IV,π.1_5	nsubj	ivp1	_	IV,π.1_2/IV,π.1_3	41
+IV,π.1_3	беꙁ	без	ADP	_	_	IV,π.1_4	case	ivp1	_	IV,π.1_4	41
+IV,π.1_4	тѣла	тѣло	NOUN	_	Case=Gen|Gender=Neut|Number=Sing	IV,π.1_5	obl	ivp1	_	IV,π.1_5/IV,π.1_6	41
+IV,π.1_5	сътварѣе҆тъ	сътварꙗти	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	ivp1	_	IV,π.1_8	41
+IV,π.1_6	и҆	и	CCONJ	_	_	IV,π.1_7	cc	ivp1	_	IV,π.1_9	41
+IV,π.1_7	ꙁлаа	зълъ	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Plur|Det=Yes	IV,π.1_5	obj	ivp1	_	IV,π.1_10	41
+IV,π.1_8	и҆	и	CCONJ	_	_	IV,π.1_9	cc	ivp1	_	IV,π.1_11	41
+IV,π.1_9	благаа	благъ	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Plur|Det=Yes	IV,π.1_7	conj	ivp1	_	IV,π.1_12	41
+IV,π.1_10	мно́га	мъногъ	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Plur	IV,π.1_7	amod	ivp1	_	IV,π.1_13	41
+IV,π.1_11	,	,	PUNCT	_	_	_	_	_	_	x3914	41
+IV,π.1_12	тѣло	тѣло	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	IV,π.1_5	nsubj:ellipsis	ivp1	_	IV,π.1_15/IV,π.1_17	41
+IV,π.1_13	же	же	ADV	_	_	IV,π.1_5	cc:ellipsis	ivp1	_	IV,π.1_16	41
+IV,π.1_14	кромѣ	кромѣ	ADP	_	_	IV,π.1_15	case	ivp1	_	IV,π.1_18	41
+IV,π.1_15	оу҆́ма	оумъ	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	IV,π.1_5	obl:ellipsis	ivp1	_	IV,π.1_19/IV,π.1_20	41
+IV,π.1_16	ничто́же	ничьтоже	PRON	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Ind	IV,π.1_5	obj:ellipsis	ivp1	_	IV,π.1_21/IV,π.1_22	41
+IV,π.1_17	:~	:~	PUNCT	_	_	_	_	_	_	x3920	41
+											
+IV,π.2_1	҆Ꙗко	ꙗко	SCONJ	_	_	IV,π.2_8	cc	ivp2-a	_	IV,π.2_1	41
+IV,π.2_2	д͠ша	доуша	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	IV,π.2_8	nsubj	ivp2-a	_	IV,π.2_2/IV,π.2_3	41
+IV,π.2_3	раꙁдрѣшъши́	раздрѣшити	VERB	_	Case=Nom|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	IV,π.2_2	acl	ivp2-a	_	IV,π.2_4	41
+IV,π.2_4	сѧ	себе	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Reflex	IV,π.2_3	expl	ivp2-a	_	IV,π.2_4	41
+IV,π.2_5	ѿ	отъ	ADP	_	_	IV,π.2_6	case	ivp2-a	_	IV,π.2_5/IV,π.2_6	41
+IV,π.2_6	тѣ́ла	тѣло	NOUN	_	Case=Gen|Gender=Neut|Number=Sing	IV,π.2_3	obl	ivp2-a	_	IV,π.2_5/IV,π.2_6	41
+IV,π.2_7	,	,	PUNCT	_	_	_	_	_	_	x3928	41
+IV,π.2_8	пое́тъ	пѣти	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	ivp2-a	_	IV,π.2_8	41
+IV,π.2_9	вънѧтрънимъ	вънѫтрьнь	ADJ	_	Case=Ins|Degree=Pos|Gender=Neut|Number=Sing|Det=Yes	IV,π.2_10	amod	ivp2-a	_	IV,π.2_9	41
+IV,π.2_10	сло́вомъ	слово	NOUN	_	Case=Ins|Gender=Neut|Number=Sing	IV,π.2_8	obl	ivp2-a	_	IV,π.2_10	41
+IV,π.2_11	г͠а	господь	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	IV,π.2_8	obj	ivp2-a	_	IV,π.2_11/IV,π.2_12	41
+IV,π.2_12	беꙁ	без	ADP	_	_	IV,π.2_13	case	ivp2-a	_	IV,π.2_13	41
+IV,π.2_13	не́го	и	PRON	_	Case=Gen|Gender=Neut|Number=Sing|Person=3|PronType=Prs	IV,π.2_8	obl	ivp2-a	_	IV,π.2_14	41
+IV,π.2_14	,	,	PUNCT	_	_	_	_	_	_	x3935	41
+IV,π.2_15	ꙁде́шнихъ	°сьдешьнь	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Plur|Det=Yes	IV,π.2_17	obj	ivp2-b	Lemma verzeichnet bei Miklosich	IV,π.2_17/IV,π.2_18	41
+IV,π.2_16	никако́же	никакоже	ADV	_	_	IV,π.2_17	advmod	ivp2-b	_	IV,π.2_19	41
+IV,π.2_17	по́мнитъ	°помьнити	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	ivp2-b	Lemma im SJS als помьнѣти	IV,π.2_20	41
+IV,π.2_18	·	·	PUNCT	_	_	_	_	_	_	x3939	41
+IV,π.2_19	грѣшнаа	грѣшьнъ	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|Det=Yes	IV,π.2_22	nsubj	ivp2-c	_	IV,π.2_22/IV,π.2_24	41
+IV,π.2_20	же	же	ADV	_	_	IV,π.2_22	cc	ivp2-c	_	IV,π.2_23	41
+IV,π.2_21	,	,	PUNCT	_	_	_	_	_	_	x3942	41
+IV,π.2_22	помнитъ	°помьнити	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	ivp2-c	Lemma im SJS als помьнѣти	IV,π.2_26	41
+IV,π.2_23	оу҆҇бо	оубо	ADV	_	_	IV,π.2_22	advmod	ivp2-c	_	IV,π.2_27	41
+IV,π.2_24	,	,	PUNCT	_	_	_	_	_	_	x3945	41
+IV,π.2_25	ѡ҆баче	обаче	ADV	_	_	IV,π.2_27	amod	ivp2-c	_	IV,π.2_29	41
+IV,π.2_26	не	не	ADV	_	Polarity=Neg	IV,π.2_27	amod	ivp2-c	_	IV,π.2_30	41
+IV,π.2_27	въсѣхъ	вьсь	PRON	_	Case=Gen|Gender=Neut|Number=Plur|PronType=Ind	IV,π.2_22	obj	ivp2-c	_	IV,π.2_31	41
+IV,π.2_28	:~	:~	PUNCT	_	_	_	_	_	_	x3949	41
+											
+IV,π.3_1	Ꙗко	ꙗко	SCONJ	_	_	IV,π.3_7	cc	ivp3	_	IV,π.3_1	41
+IV,π.3_2	а҆гг͠єли	ангелъ	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	IV,π.3_7	nsubj	ivp3	_	IV,π.3_2/IV,π.3_3	41
+IV,π.3_3	не	не	ADV	_	Polarity=Neg	IV,π.3_5	advmod	ivp3	_	IV,π.3_4	41
+IV,π.3_4	ꙗ҆ко	ꙗко	ADV	_	_	IV,π.3_5	mark	ivp3	_	IV,π.3_5	41
+IV,π.3_5	съсѫдомъ	съсѫдъ	NOUN	_	Case=Ins|Gender=Masc|Number=Sing	IV,π.3_7	advcl	ivp3	_	IV,π.3_6/IV,π.3_7	41
+IV,π.3_6	нѣкыимъ	нѣкꙑи	PRON	_	Case=Ins|Gender=Masc|Number=Sing|PronType=Ind	IV,π.3_5	amod:det	ivp3	_	IV,π.3_8	41
+IV,π.3_7	поѧтъ	пѣти	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	ivp3	_	IV,π.3_9	41
+IV,π.3_8	г͠а	господь	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	IV,π.3_7	obj	ivp3	_	IV,π.3_10/IV,π.3_11	41
+IV,π.3_9	:~	:~	PUNCT	_	_	_	_	_	_	x3959	41
+											
+IV,π.4_1	Ꙗко	ꙗко	SCONJ	_	_	IV,π.4_8	cc	ivp4	_	IV,π.4_1	41
+IV,π.4_2	въ	въ	ADP	_	_	IV,π.4_4	case	ivp4	_	IV,π.4_2	41
+IV,π.4_3	бѫдѫщемъ	бꙑти	VERB	_	Case=Loc|Gender=Masc|Number=Sing|Det=Yes|Tense=Fut|VerbForm=Part|Voice=Act	IV,π.4_4	amod	ivp4	_	IV,π.4_3/IV,π.4_4	41
+IV,π.4_4	вѣцѣ	вѣкъ	NOUN	_	Case=Loc|Gender=Masc|Number=Sing	IV,π.4_8	obl	ivp4	_	IV,π.4_3/IV,π.4_5	41
+IV,π.4_5	,	,	PUNCT	_	_	_	_	_	_	x3965	41
+IV,π.4_6	бо́лшее	велии	ADV	_	Degree=Cmp	IV,π.4_7	amod	ivp4	_	IV,π.4_6	41
+IV,π.4_7	просла́вєни	прославити	VERB	_	Case=Nom|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	IV,π.4_8	nsubj	ivp4	_	IV,π.4_7	41
+IV,π.4_8	бѫдѫтъ	бꙑти	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	ivp4	_	IV,π.4_7	41
+IV,π.4_9	ст͠ии	свѧтъ	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur|Det=Yes	IV,π.4_8	obl	ivp4	_	IV,π.4_8/IV,π.4_9	41
+IV,π.4_10	па́че	паче	ADV	_	_	IV,π.4_11	case	ivp4	_	IV,π.4_10	41
+IV,π.4_11	а҆́гг͠елъ	ангелъ	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	IV,π.4_9	nmod	ivp4	_	IV,π.4_11/IV,π.4_12	41
+IV,π.4_12	:~	:~	PUNCT	_	_	_	_	_	_	x3972	41
+											
+IV,π.5_1	Оу҆҇бо	оубо	ADV	_	_	IV,π.5_6	cc	ivp5	_	IV,π.5_1	41
+IV,π.5_2	какова	каковъ	PRON	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Int	IV,π.5_6	obl:pred	ivp5	sec. Pljevlja, man. sv. Trojice 72 (serb.)	IV,π.5_2	41
+IV,π.5_3	новаа	новъ	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|Det=Yes	IV,π.5_4	amod	ivp5	_	IV,π.5_3/IV,π.5_4	41
+IV,π.5_4	тва́рь	тварь	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	IV,π.5_6	nsubj	ivp5	_	IV,π.5_3/IV,π.5_5	41
+IV,π.5_5	ѡ҆наа	онъ	PRON	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Dem	IV,π.5_4	det	ivp5	_	IV,π.5_6	41
+IV,π.5_6	бѫдетъ	бꙑти	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	ivp5	_	IV,π.5_7	41
+IV,π.5_7	бѫдѫщаго	бꙑти	VERB	_	Case=Gen|Gender=Masc|Number=Sing|Det=Yes|Tense=Fut|VerbForm=Part|Voice=Act	IV,π.5_8	amod	ivp5	_	IV,π.5_8/IV,π.5_9	41
+IV,π.5_8	вѣ́ка	вѣкъ	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	IV,π.5_4	nmod	ivp5	_	IV,π.5_8/IV,π.5_10	41
+IV,π.5_9	:~	:~	PUNCT	_	_	_	_	_	_	x3982	41

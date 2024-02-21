@@ -1,14 +1,11 @@
 # Visualize Universal Dependencies
 
-This is an application for visualizing syntactic relations within sentences
+This is a script based on the application for visualizing syntactic relations within sentences
 using [universal dependencies](https://universaldependencies.org/) annotation developed at the 
-[Slavisches Seminar of the University of Zurich](https://www.slav.uzh.ch/de.html). 
+[Institute of Slavic Studies of University of Innsbruck](https://www.uibk.ac.at/slawistik/institut/).
 
 
-The application makes use of the [react-archer](https://github.com/pierpo/react-archer)
-package in order to illustrate 
-syntactic relations between sentence elements in a hierarchical tree-like plot and provides several
-frequency tables based on the imported data. 
+The script illustrates syntactic relations between sentence elements in a hierarchical tree-like plot and allows exporting in SVG format. Open via localhost or upload to your server, using "dioptra_cs.txt" file to test it.
 
 This is an open source application. Anyone can download the code and make any changes for their own use.
 
