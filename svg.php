@@ -85,7 +85,7 @@
 	
 	<div style="text-align:center;">
 		<svg id="warn" width=200 height=100></svg>
-		<svg id="svgac" width=100 height=100></svg>
+		<svg id="svgac" width=100 height=100 xmlns="http://www.w3.org/2000/svg"></svg>
 		<svg id="test" width=100 height=100></svg>
 	</div>
 	
